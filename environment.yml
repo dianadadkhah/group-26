@@ -1,13 +1,14 @@
 name: Group_26
 channels:
   - conda-forge
+  - defaults
 dependencies:
-  - altair
-  - scikit-learn
-  - jupyterlab
-  - numpy
-  - python=3.12
-  - pandas
-  - pandera
   - pointblank
+  - numpy
+  - altair
+  - pandas
+  - scikit-learn
+  - python=3.12
+  - jupyterlab
+  - pandera
 
