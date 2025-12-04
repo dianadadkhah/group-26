@@ -1,6 +1,30 @@
+# License
+## Analysis report
+
+Copyright (c) 2025
+
+This report (source contained in the [`Apartment-High-Rent-Predictor` repository](https://github.com/dianadadkhah/Apartment-High-Rent-Predictor)) is made available under the **Attribution-NonCommercial-ShareAlike 4.0 International** ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)). 
+
+This is a human-readable summary of (and not a substitute for) the [license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+
+## You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
+
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+## Under the following terms:
+
+- **Attribution** — You must give appropriate credit (mentioning that your work is derived from work that is Copyright © Diana Dadkhah Tirani, Shanze Khemani, Ssemakula Peter Wasswa, Grigory Artazyan and, where practical, linking to https://datasciencebook.ca/), provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **NonCommercial** — You may not use the material for commercial purposes.
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+**No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
 MIT License
 
-Copyright (c) 2025 dianadadkhah
+Copyright (c) 2025 dianadadkhah, shanzekhem, GrigoryArtazyan, ssemakulapeterwasswa
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
