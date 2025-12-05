@@ -5,12 +5,16 @@ channels:
 
 dependencies:
   - python=3.12
+  - altair
   - numpy
   - pandas
   - scikit-learn
   - seaborn
   - matplotlib
   - statsmodels
+  - pointblank
+  - seaborn        
+  - ucimlrepo  
   - jupyterlab
   - ipykernel
   - click
